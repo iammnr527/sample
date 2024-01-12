@@ -1,0 +1,4 @@
+git remote set-url origin https://<PERSONAL ACCESSTOKEN>@github.com/<github-username>/repo-name
+ubuntu@ip-172-31-16-158:~/gg/sample$ git remote set-url origin https://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@github.com/iammnr527/sample.git
+ubuntu@ip-172-31-16-158:~/gg/sample$ git push origin main
+
